@@ -88,7 +88,13 @@ Infinite Tic Tac Toe เป็นแอปพลิเคชัน OX ที่�
    รูป ตัวอย่าง code การตรวจกรณี OX
 </p>
 
-## VDO ตัวอย่าง 
+## VDO ตัวอย่าง
+
+<p align="center">
+  <a href="https://youtu.be/-TIv0mid5U4" target="_blank">
+    <img src="https://img.youtube.com/vi/-TIv0mid5U4/0.jpg" alt="Video Thumbnail" width="300" />
+  </a>
+</p>
 
 
 
