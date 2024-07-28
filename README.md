@@ -97,6 +97,9 @@ Infinite Tic Tac Toe เป็นแอปพลิเคชัน OX ที่�
   </a>
 </p>
 
+## if you cannot clone or something errors
+[Link_Download](https://drive.google.com/file/d/19Z00eHu6EXKHKE4pjrHFTP0w8ATAaoHb/view?usp=drive_link)
+
 
 
 
