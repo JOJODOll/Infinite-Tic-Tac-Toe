@@ -32,6 +32,34 @@ Infinite Tic Tac Toe เป็นแอปพลิเคชัน OX ที่�
 ## ตัวอย่างการทำงาน
 
 1. หน้าแรกจะเป็นแถบเมนูที่มีตัวเลือก "New Game" และ "History"
+   
+<p align="center">
+  <img src="https://github.com/JOJODOll/Infinite-Tic-Tac-Toe/raw/main/PICTURE/first_page.png" alt="Description of image" width="300" />
+</p>
+
+
 2. เมื่อกดเข้ามาที่หน้าหลักของเกม ผู้เล่นสามารถเลือกจำนวนตารางที่ต้องการและขนาดการเรียงของ OX รวมถึงเลือกเล่นกับผู้เล่นคนอื่นหรือบอท
+
+<p align="center">
+  <img src="https://github.com/JOJODOll/Infinite-Tic-Tac-Toe/raw/main/PICTURE/first_page_scale.png" alt="Description of image" width="300" />
+  <img src="https://github.com/JOJODOll/Infinite-Tic-Tac-Toe/raw/main/PICTURE/first_page_win_by.png" alt="Description of image" width="300" />
+</p>
+
 3. เมื่อกด "Start" ในหน้าหลัก ผู้เล่นสามารถ Zoom in, Zoom out และเลื่อนตารางไปยังตำแหน่งที่ต้องการได้
+
+<p align="center">
+  <img src="https://github.com/JOJODOll/Infinite-Tic-Tac-Toe/raw/main/PICTURE/first_page_zoom.png" alt="Description of image" width="300" />
+</p>
+
 4. หน้าดูประวัติการเล่นสามารถให้ผู้เล่นเลือกดูการเล่นในวันและเวลาที่ต้องการ และสามารถล้างประวัติการเล่นได้
+
+ 
+<p align="center">
+  <img src="https://github.com/JOJODOll/Infinite-Tic-Tac-Toe/raw/main/PICTURE/history.png" alt="Description of image" width="300" />
+</p>
+
+
+## algorithm ในการตรวจ XO
+
+
+
